@@ -3,8 +3,6 @@ import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import validateEmail from '../../helpers/emailValidate';
 import useMembers from './useMembers';
-import App from './App';
-
 function ModalAddStudents({ setShowModal }) {
   const [team, setTeam] = useState("");
   const [member1, setMember1] = useState("");

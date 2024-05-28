@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import BackwardArrows from "../../public/svg/BackwardArrows";
-import ForwardArrows from "../../public/svg/ForwardArrows";
+import BackwardArrows from "../../public/images/svg/BackwardArrows";
+import ForwardArrows from "../../public/images/svg/ForwardArrows";
 
 function Pagination({
   numResultsToDisplay = 10,
