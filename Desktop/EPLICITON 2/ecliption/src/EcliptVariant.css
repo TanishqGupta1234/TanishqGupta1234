@@ -1,0 +1,212 @@
+.ecliptvariant3-child {
+    width: 95.69%;
+    position: absolute;
+    height: 76.54%;
+    top: -10.37%;
+    right: -109.37%;
+    bottom: 33.83%;
+    left: 113.68%;
+  }
+  .ecliptvariant3-item {
+    position: absolute;
+    height: 0.28%;
+    width: 0.14%;
+    top: 100.28%;
+    right: 83.26%;
+    bottom: -0.56%;
+    left: 16.6%;
+    border-right: 2px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .ecliptvariant3-child1,
+  .ecliptvariant3-child2,
+  .ecliptvariant3-inner,
+  .line-div {
+    position: absolute;
+    height: 0.19%;
+    width: 100.14%;
+    top: 19.07%;
+    right: -0.07%;
+    bottom: 80.75%;
+    left: -0.07%;
+    border-top: 2px solid var(--color-white);
+    box-sizing: border-box;
+  }
+  .ecliptvariant3-child1,
+  .ecliptvariant3-child2,
+  .line-div {
+    width: 28.61%;
+    top: 57.38%;
+    bottom: 42.43%;
+    left: 71.46%;
+  }
+  .ecliptvariant3-child1,
+  .ecliptvariant3-child2 {
+    width: 16.81%;
+    top: 38.22%;
+    right: 83.26%;
+    bottom: 61.59%;
+    left: -0.07%;
+  }
+  .ecliptvariant3-child2 {
+    width: 71.53%;
+    top: 76.54%;
+    right: 28.54%;
+    bottom: 23.27%;
+  }
+  .ecliptvariant3-child3,
+  .ecliptvariant3-child4,
+  .ecliptvariant3-child5,
+  .ecliptvariant3-child6 {
+    position: absolute;
+    height: 19.35%;
+    width: 0.14%;
+    top: -0.09%;
+    right: 71.39%;
+    bottom: 80.75%;
+    left: 28.47%;
+    border-right: 2px solid var(--color-white);
+    box-sizing: border-box;
+  }
+  .ecliptvariant3-child4,
+  .ecliptvariant3-child5,
+  .ecliptvariant3-child6 {
+    height: 96.26%;
+    right: 28.54%;
+    bottom: 3.83%;
+    left: 71.32%;
+  }
+  .ecliptvariant3-child5,
+  .ecliptvariant3-child6 {
+    height: 19.53%;
+    right: 42.78%;
+    bottom: 80.56%;
+    left: 57.08%;
+  }
+  .ecliptvariant3-child6 {
+    height: 19.35%;
+    right: 57.08%;
+    bottom: 80.75%;
+    left: 42.78%;
+  }
+  .eclipticon,
+  .eclipticon1 {
+    position: absolute;
+    font-weight: 200;
+    font-family: var(--font-resotho);
+    display: inline-block;
+  }
+  .eclipticon {
+    top: 91px;
+    left: 135px;
+    letter-spacing: 0.18em;
+    width: 227px;
+    height: 28px;
+    text-shadow: 0.5px 0 0#fff, 0 0.5px 0#fff, -0.5px 0 0#fff, 0-0.5px 0#fff;
+  }
+  .eclipticon1 {
+    top: 373px;
+    left: 318px;
+    font-size: 64px;
+    width: 805px;
+  }
+  .welcome-to,
+  .where-every-click {
+    position: absolute;
+    top: 555px;
+    left: 172px;
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-poppins);
+    display: inline-block;
+    width: 618px;
+  }
+  .welcome-to {
+    top: 299px;
+  }
+  .ecliptvariant3-child7 {
+    position: absolute;
+    top: 1027px;
+    left: -1px;
+    border-top: 2px solid var(--color-white);
+    box-sizing: border-box;
+    width: 1236px;
+    height: 2px;
+  }
+  .white-logo-icon {
+    position: absolute;
+    height: 5.14%;
+    width: 3.19%;
+    top: 6.82%;
+    right: 91.6%;
+    bottom: 88.04%;
+    left: 5.21%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .products {
+    position: absolute;
+    top: 86px;
+    left: calc(50% - 52px);
+    font-weight: 600;
+    white-space: pre-wrap;
+  }
+  .products-wrapper {
+    position: absolute;
+    top: 0;
+    left: 413px;
+    background-color: var(--color-gray);
+    width: 204px;
+    height: 205px;
+    overflow: hidden;
+  }
+  .products1 {
+    position: absolute;
+    top: 86px;
+    left: calc(50% - 52px);
+    font-weight: 600;
+  }
+  .products-container,
+  .products-frame,
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 619px;
+    background-color: var(--color-gray);
+    width: 204px;
+    height: 205px;
+    overflow: hidden;
+  }
+  .products-frame,
+  .rectangle-div {
+    left: 1030px;
+  }
+  .rectangle-div {
+    left: 1236px;
+  }
+  .products4 {
+    position: absolute;
+    top: 86px;
+    left: calc(50% - 51.5px);
+    font-weight: 600;
+  }
+  .products-wrapper1 {
+    position: absolute;
+    top: 0;
+    left: 825px;
+    background-color: var(--color-gray);
+    width: 203px;
+    height: 205px;
+    overflow: hidden;
+  }
+  .ecliptvariant3 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-black);
+    height: 1070px;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-open-sans);
+  }
+  
